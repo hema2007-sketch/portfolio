@@ -24,7 +24,7 @@ const PORTFOLIO = {
   phone: "+20 106 886 2124",
   location: "Cairo, Egypt",
   profileImage: "assets/profile.png",   // Replace with your photo
-  resumeFile: "../CV_Ibrahim_Mohamed.md", // Path to CV
+  resumeFile: "CV_Ibrahim_Mohamed.md", // Path to CV
 
   // ─── About ─────────────────────────────────────────────────
   about: {
