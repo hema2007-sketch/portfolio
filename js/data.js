@@ -106,7 +106,7 @@ const PORTFOLIO = {
       category: "Software Engineering",
       description: "Developed a console C++ Learning Management System utilizing OOP principles. Implemented Role-Based Access Control (RBAC), grading mechanisms, and custom file I/O storage.",
       tags: ["C++", "OOP", "File Storage", "Auth", "RBAC"],
-      image: "assets/project-bg.png",
+      image: "assets/lms_project_thumbnail.png",
       link: "https://github.com/hema2007-sketch/lms-oop",
       github: "https://github.com/hema2007-sketch/lms-oop",
       year: "2025"
